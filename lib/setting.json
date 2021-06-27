@@ -1,0 +1,5 @@
+{
+  "fake": "Pinky",
+  "fakeimage": "fs.readFileSync(`./media/pinky.jpeg`)",
+  "prefix": "#"
+}
